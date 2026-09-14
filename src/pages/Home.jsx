@@ -1,11 +1,27 @@
-import Navbar from "../components/Navbar";
+import { Link } from "react-router-dom";
+import styles from "./Home.module.css";
+import PageNav from "../components/PageNav";
 
 const Home = () => {
   return (
-    <div>
-      <Navbar />
-      <h1>Home</h1>
-    </div>
+    <main className={styles.home}>
+      <PageNav />
+      <section>
+        <h1>
+          You travel the world.
+          <br />
+          WorldLog keeps track of your adventures.
+        </h1>
+        <h2>
+          A world map that tracks your footsteps into every city you can think
+          of. Never forget your wonderful experiences, and show your friends how
+          you have wandered the world.
+        </h2>
+        <Link to="/app" className="cta">
+          Start tracking now
+        </Link>
+      </section>
+    </main>
   );
 };
 

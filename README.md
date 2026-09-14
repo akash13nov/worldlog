@@ -5,6 +5,7 @@ Project URL : WIP
 - Create React App
 - Routing of App
 - Create Navbar component and Link Routes with Link & NavLink
+- build All pages include login page and styles them with module css
 
 # Features
 
