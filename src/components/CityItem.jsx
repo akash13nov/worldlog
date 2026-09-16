@@ -12,7 +12,7 @@ const CityItem = ({ city }) => {
   const { cityName, emoji, date, id, position } = city;
 
   return (
-    <li>
+    <li className={styles.cityItemList}>
       <Link
         className={styles.cityItem}
         to={`${id}?lat=${position.lat}&lng=${position.lng}`}

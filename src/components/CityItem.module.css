@@ -1,3 +1,6 @@
+.cityItemList {
+  width: 100%;
+}
 .cityItem,
 .cityItem:link,
 .cityItem:visited {
