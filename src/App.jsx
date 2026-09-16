@@ -10,7 +10,6 @@ import CountryList from "./components/CountryList";
 import City from "./components/City";
 import Form from "./components/Form";
 import PageNotFound from "./pages/PageNotFound";
-import { CitiesProvider } from "./context/CitiesContext";
 
 const App = () => {
   return (
