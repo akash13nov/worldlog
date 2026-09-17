@@ -47,30 +47,6 @@
         "lng": 88.363892
       },
       "id": 65029341
-    },
-    {
-      "cityName": "Bengluru",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 13.08268,
-        "lng": 80.270721
-      },
-      "id": 98495198
-    },
-    {
-      "cityName": "Goa",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2027-04-05T11:10:00.000Z",
-      "notes": "",
-      "position": {
-        "lat": 22.572645,
-        "lng": 88.363892
-      },
-      "id": 65129341
     }
   ]
 }
