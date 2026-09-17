@@ -1,15 +1,15 @@
 import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
 
-import Home from "./pages/Home";
-import Product from "./pages/Product";
-import Pricing from "./pages/Pricing";
-import Login from "./pages/Login";
-import AppLayout from "./pages/AppLayout";
-import CityLIst from "./components/CityLIst";
-import CountryList from "./components/CountryList";
-import City from "./components/City";
-import Form from "./components/Form";
-import PageNotFound from "./pages/PageNotFound";
+import Home from "./pages/Home/Home";
+import Product from "./pages/Product/Product";
+import Pricing from "./pages/Pricing/Pricing";
+import Login from "./pages/Login/Login";
+import AppLayout from "./pages/AppLayout/AppLayout";
+import CityLIst from "./components/CityList/CityLIst";
+import CountryList from "./components/CountryList/CountryList";
+import City from "./components/City/City";
+import Form from "./components/Form/Form";
+import PageNotFound from "./pages/PageNotFound/PageNotFound";
 import { CitiesProvider } from "./context/CityContext";
 
 const App = () => {

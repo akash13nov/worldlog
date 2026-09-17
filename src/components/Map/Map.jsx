@@ -9,7 +9,7 @@ import {
 } from "react-leaflet";
 import styles from "./Map.module.css";
 import { useEffect, useState } from "react";
-import { useCities } from "../context/CityContext";
+import { useCities } from "../../context/CityContext";
 
 function Map() {
   const { cities } = useCities();

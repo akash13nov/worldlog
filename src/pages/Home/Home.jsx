@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import styles from "./Home.module.css";
-import PageNav from "../components/PageNav";
+import PageNav from "../../components/PageNav/PageNav";
 
 const Home = () => {
   return (

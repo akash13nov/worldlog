@@ -3,8 +3,8 @@
 import { useState } from "react";
 
 import styles from "./Form.module.css";
-import Button from "./Button";
-import BackButton from "./BackButton";
+import Button from "../Button/Button";
+import BackButton from "../BackButton/BackButton";
 
 export function convertToEmoji(countryCode) {
   const codePoints = countryCode
