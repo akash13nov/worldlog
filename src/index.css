@@ -62,7 +62,7 @@ input:focus {
 .cta:visited {
   display: inline-block;
   background-color: var(--color-brand--2);
-  color: var(--color-dark--1);
+  color: var(--color-light--2);
   text-transform: uppercase;
   text-decoration: none;
   font-size: 1.6rem;
