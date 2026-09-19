@@ -10,7 +10,7 @@
         "lat": 28.613939,
         "lng": 77.209023
       },
-      "id": 73930386
+      "id": "73930386"
     },
     {
       "cityName": "Mumbai",
@@ -22,7 +22,7 @@
         "lat": 19.075983,
         "lng": 72.877655
       },
-      "id": 17806752
+      "id": "17806752"
     },
     {
       "cityName": "Chennai",
@@ -34,7 +34,7 @@
         "lat": 13.08268,
         "lng": 80.270721
       },
-      "id": 98443198
+      "id": "98443198"
     },
     {
       "cityName": "Kolkata",
@@ -46,7 +46,56 @@
         "lat": 22.572645,
         "lng": 88.363892
       },
-      "id": 65029341
+      "id": "65029341"
+    },
+    {
+      "cityName": "Makrana",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2026-09-19T07:10:07.151Z",
+      "notes": "",
+      "position": [
+        "27.039556602163195",
+        "74.75097656250001"
+      ],
+      "id": "2T-PUZJ9owU"
+    },
+    {
+      "cityName": "Pohri",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2026-09-19T08:05:49.939Z",
+      "notes": "test",
+      "position": [
+        25.562265014427492,
+        77.38769531250001
+      ],
+      "id": "uGb5z-4_TlE"
+    },
+    {
+      "cityName": "Ballia",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2026-09-19T08:06:53.365Z",
+      "notes": "Ballia",
+      "position": [
+        25.819671943904044,
+        84.11132812500001
+      ],
+      "id": "GQadjdkwQJ0"
+    },
+    {
+      "cityName": "Lucknow",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2026-09-19T08:14:59.896Z",
+      "notes": "",
+      "position": [
+        26.843677401113002,
+        80.92529296875
+      ],
+      "id": "mJBNRCL-bTY"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
