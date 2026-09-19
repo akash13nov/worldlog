@@ -49,30 +49,6 @@
       "id": "65029341"
     },
     {
-      "cityName": "Makrana",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2026-09-19T07:10:07.151Z",
-      "notes": "",
-      "position": [
-        "27.039556602163195",
-        "74.75097656250001"
-      ],
-      "id": "2T-PUZJ9owU"
-    },
-    {
-      "cityName": "Pohri",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2026-09-19T08:05:49.939Z",
-      "notes": "test",
-      "position": [
-        25.562265014427492,
-        77.38769531250001
-      ],
-      "id": "uGb5z-4_TlE"
-    },
-    {
       "cityName": "Ballia",
       "country": "India",
       "emoji": "🇮🇳",
@@ -83,18 +59,6 @@
         84.11132812500001
       ],
       "id": "GQadjdkwQJ0"
-    },
-    {
-      "cityName": "Lucknow",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2026-09-19T08:14:59.896Z",
-      "notes": "",
-      "position": [
-        26.843677401113002,
-        80.92529296875
-      ],
-      "id": "mJBNRCL-bTY"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
