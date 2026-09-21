@@ -49,16 +49,40 @@
       "id": "65029341"
     },
     {
-      "cityName": "Ballia",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2026-09-19T08:06:53.365Z",
-      "notes": "Ballia",
+      "cityName": "Dubai",
+      "country": "United Arab Emirates",
+      "emoji": "🇦🇪",
+      "date": "2026-09-21T08:26:19.230Z",
+      "notes": "Dubai",
       "position": [
-        25.819671943904044,
-        84.11132812500001
+        25.025884063244828,
+        55.63476562500001
       ],
-      "id": "GQadjdkwQJ0"
+      "id": "tCybalrhwms"
+    },
+    {
+      "cityName": "Naera-Agernaes Vildtreservat",
+      "country": "Denmark",
+      "emoji": "🇩🇰",
+      "date": "2026-09-21T08:45:44.237Z",
+      "notes": "Denmark",
+      "position": [
+        55.61558902526751,
+        10.195312500000002
+      ],
+      "id": "mDD02XaRxhA"
+    },
+    {
+      "cityName": "Gemeente Nijkerk",
+      "country": "Netherlands",
+      "emoji": "🇳🇱",
+      "date": "2026-09-21T08:45:56.498Z",
+      "notes": "Nederland",
+      "position": [
+        52.17393169256846,
+        5.47119140625
+      ],
+      "id": "qk2je_BTr3Y"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
