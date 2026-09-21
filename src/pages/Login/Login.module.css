@@ -24,3 +24,13 @@
   flex-direction: column;
   gap: 0.5rem;
 }
+.form p {
+  font-size: 1.6rem;
+  margin-bottom: 2rem;
+}
+
+.form p span {
+  color: var(--color-brand--2);
+  text-decoration: underline;
+  cursor: pointer;
+}

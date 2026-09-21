@@ -52,37 +52,13 @@
       "cityName": "Dubai",
       "country": "United Arab Emirates",
       "emoji": "🇦🇪",
-      "date": "2026-09-21T08:26:19.230Z",
-      "notes": "Dubai",
+      "date": "2026-09-21T11:38:50.962Z",
+      "notes": "TEST",
       "position": [
-        25.025884063244828,
-        55.63476562500001
+        25.085598897064777,
+        55.19531250000001
       ],
-      "id": "tCybalrhwms"
-    },
-    {
-      "cityName": "Naera-Agernaes Vildtreservat",
-      "country": "Denmark",
-      "emoji": "🇩🇰",
-      "date": "2026-09-21T08:45:44.237Z",
-      "notes": "Denmark",
-      "position": [
-        55.61558902526751,
-        10.195312500000002
-      ],
-      "id": "mDD02XaRxhA"
-    },
-    {
-      "cityName": "Gemeente Nijkerk",
-      "country": "Netherlands",
-      "emoji": "🇳🇱",
-      "date": "2026-09-21T08:45:56.498Z",
-      "notes": "Nederland",
-      "position": [
-        52.17393169256846,
-        5.47119140625
-      ],
-      "id": "qk2je_BTr3Y"
+      "id": "A3iWZmwOc3Q"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
