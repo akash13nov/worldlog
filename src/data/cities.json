@@ -59,6 +59,30 @@
         55.19531250000001
       ],
       "id": "A3iWZmwOc3Q"
+    },
+    {
+      "cityName": "Ulytau",
+      "country": "Kazakhstan",
+      "emoji": "🇰🇿",
+      "date": "2026-09-22T08:59:30.252Z",
+      "notes": "",
+      "position": [
+        47.88688085106898,
+        67.30224609375001
+      ],
+      "id": "xQasElNIg0A"
+    },
+    {
+      "cityName": "Somero",
+      "country": "Finland",
+      "emoji": "🇫🇮",
+      "date": "2026-09-22T08:59:36.672Z",
+      "notes": "",
+      "position": [
+        60.694695372877476,
+        23.488769531250004
+      ],
+      "id": "4-u9Riz1plI"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
