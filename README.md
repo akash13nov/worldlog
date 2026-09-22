@@ -1,4 +1,4 @@
-Project URL : WIP
+Project URL : https://worldlog0.netlify.app/
 
 # WorldLog Project
 
